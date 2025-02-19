@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a marketplace**
 
-💬 Ask me about **Node.js, React**
+💬 Ask me about **React**
 
  </div>
  
